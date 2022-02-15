@@ -45,7 +45,7 @@ app.component.html:
             <Cylinder-Area></Cylinder-Area>
         </div>
         <div class="footer">
-            Developed by: Koduru Sanath Kumar Reddy
+            Developed by: A.Sai Bandhavi
         </div>
     </div>
 </body>
