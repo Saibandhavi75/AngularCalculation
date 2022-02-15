@@ -181,7 +181,7 @@ export class AppModule { }
 
 ```
 ## OUTPUT:
-
+![output](https://github.com/Saibandhavi75/AngularCalculation/blob/main/A1.PNG?raw=true)
 
 
 ## Result:
